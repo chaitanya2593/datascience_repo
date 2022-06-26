@@ -1,0 +1,13 @@
+https://scikit-learn.org/stable/auto_examples/svm/plot_rbf_parameters.html
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769
+https://datafai.com/2018/08/10/support-vector-machine-svm/
+https://machinelearningmastery.com/vector-norms-machine-learning/
+https://amueller.github.io/word_cloud/generated/wordcloud.WordCloud.html
+https://datafai.com/simple-wordcloud-using-nltk-library-in-python/
+https://datafai.com/2018/03/09/model-persistence-using-python-pickle/
+
+
+
+SVM
+https://medium.com/all-things-ai/in-depth-parameter-tuning-for-svc-758215394769
+

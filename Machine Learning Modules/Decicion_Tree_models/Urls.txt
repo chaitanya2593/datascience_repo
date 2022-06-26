@@ -1,0 +1,17 @@
+Random forest 
+
+https://datafai.com/2018/08/21/decision-tree-regression-using-scikit/
+https://datafai.com/2018/03/09/model-persistence-using-python-pickle/
+
+
+1. Revise the Decision Tree Code
+https://datafai.com/2018/08/21/decision-tree-regression-using-scikit/
+
+2. Link for the Ensemble Model
+https://datafai.com/2018/03/02/ensemble-modeling-using-python/
+
+
+3. LMS notebook for Random Forest
+
+
+http://www.webgraphviz.com/

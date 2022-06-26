@@ -1,0 +1,11 @@
+https://datafai.com/auto-arima-using-pyramid-arima-python-package/
+https://pypi.org/project/pyramid-arima/
+https://forms.gle/n6Rj3fJBHvw2fgFU9
+https://datamin.analyticsvidhya.com/quiz/instructions
+https://join.slack.com/t/dsqna/shared_invite/enQtNzE1MDU3NDEyNTQ4LTQ3ZGM1YTQ3ZThjODk1ZDVlNDg3NmJkMzZkZDZiNzcyODM2MWRiY2M2ZTdkZGQ0NGYyMWIyYjcyZWUzMjU1NGI
+https://datafai.com/2018/01/18/fundamentals-of-deep-learning-and-artificial-intelligence/
+https://www.linkedin.com/pulse/what-some-good-data-science-projects-public-domain-ratnakar-pandey/
+https://datafai.com/2018/07/09/holt-winters-time-series-forecasting/
+
+Tensor Floe::
+https://www.quora.com/q/fmajhtqfnblsmowf/Deep-Learning-using-Tensor-Flow-Keras-Python-Jupyter-Notebook

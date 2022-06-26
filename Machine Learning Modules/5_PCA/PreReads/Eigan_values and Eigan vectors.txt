@@ -1,0 +1,3 @@
+https://towardsdatascience.com/the-mathematics-behind-principal-component-analysis-fff2d7f4b643
+https://stattrek.com/matrix-algebra/echelon-form.aspx
+https://www.scss.tcd.ie/~dahyotr/CS1BA1/SolutionEigen.pdf
